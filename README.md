@@ -1,1 +1,1 @@
-# MaruOS 
+# Maru 
